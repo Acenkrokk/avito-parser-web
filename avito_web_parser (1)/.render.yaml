@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: avito-parser-web
+    env: php
+    buildCommand: composer install
+    startCommand: ""
+    rootDir: public
