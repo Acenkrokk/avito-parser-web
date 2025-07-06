@@ -1,0 +1,10 @@
+{
+  "name": "avito/parser",
+  "description": "Avito parser web interface",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
